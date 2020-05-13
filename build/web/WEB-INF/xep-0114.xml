@@ -1,5 +1,5 @@
 
-<subdomain port="5275" name="bfountain.com" domain="Lenovo-PC">
+<subdomain port="5275" name="mypage.com" domain="Lenovo-PC">
     <component-class name="com.kenai.jabberwocky.framework.core.JabberwockyComponent"/>
     <create-subdomain shared-secret="alwaysRight" create="true" cleanup="true"/>
     <properties>
